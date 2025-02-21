@@ -1,1 +1,1 @@
-# AI-Image-Gen
+This AI Image Generator leverages advanced deep learning techniques to create stunning, high-quality images from textual descriptions. With its intuitive interface, users can easily generate visuals that resonate with their ideas, making it a valuable tool for artists, marketers, and content creators
